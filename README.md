@@ -1,20 +1,22 @@
-# sales-dashboard
-Interactive sales dashboard built with BigQuery and Tableau Public
+# Sales Analysis Dashboard (v1.0)
 
-## Tools used / Використані інструменти:
-- BigQuery;
-- Tableau Public;
-- SQL.
+This project is a Sales Analysis Dashboard created in Tableau Public.  
+The dashboard visualizes monthly sales trends, top-performing products, and revenue distribution across different regions.
 
-## What's in the project? / Що є в проєкті?
-- 📈 Sales Analysis /  📈 Аналіз продажів;
-- 🗺️ Geographic Visualizations / 🗺️ Географічні візуалізації;
-- 🔍 Top Products and Top Customers / 🔍 Топ-продукти та топ-клієнти.
+## Key Tools Used
+- Tableau Public
+- BigQuery
+- SQL
+- Excel (for basic preprocessing)
 
-## Dashboard link / Посилання на дашборд:
-View dashboard / Переглянути дашборд(посилання_на_табло)(https://public.tableau.com/views/SalesAnalysisDashboard_17452793623070/SalesAnalysisDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+## Features
+- Monthly revenue tracking
+- Best-selling products identification
+- Revenue by region analysis
 
-## How to open? / Як відкрити?
-1. Download dataset /  Завантажити датасет;
-2. Open the file in Tableau Public / Відкрити файл у Tableau Public;
-3. View visualizations / Переглянути візуалізації.
+## Link to live Dashboard
+View Sales Analysis Dashboard on Tableau Public (https://public.tableau.com/views/SalesAnalysisDashboard_17452793623070/SalesAnalysisDashboard?:language=en-US)
+
+## Future Improvements
+- Adding cost/profit analysis
+- Enhanced filtering and interactivity
