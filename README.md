@@ -11,7 +11,7 @@ Interactive sales dashboard built with BigQuery and Tableau Public
 - 🗺️ Geographic Visualizations / 🗺️ Географічні візуалізації;
 - 🔍 Top Products and Top Customers / 🔍 Топ-продукти та топ-клієнти.
 
-## ПDashboard link / осилання на дашборд
+## Dashboard link / Посилання на дашборд:
 [View dashboard / Переглянути дашборд][(посилання_на_табло)](https://public.tableau.com/views/SalesAnalysisDashboard_17452793623070/SalesAnalysisDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## How to open? / Як відкрити?
