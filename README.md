@@ -12,7 +12,7 @@ Interactive sales dashboard built with BigQuery and Tableau Public
 - 🔍 Top Products and Top Customers / 🔍 Топ-продукти та топ-клієнти.
 
 ## Dashboard link / Посилання на дашборд:
-[View dashboard / Переглянути дашборд][(посилання_на_табло)](https://public.tableau.com/views/SalesAnalysisDashboard_17452793623070/SalesAnalysisDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+View dashboard / Переглянути дашборд(посилання_на_табло)(https://public.tableau.com/views/SalesAnalysisDashboard_17452793623070/SalesAnalysisDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## How to open? / Як відкрити?
 1. Download dataset /  Завантажити датасет;
